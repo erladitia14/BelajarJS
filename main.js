@@ -27,7 +27,7 @@
 //         }else{
 //                 document.write("Anda tidak mendapatkan grade A");
 //         }
-5
+
 // x=6
 // y=3
 
@@ -46,3 +46,12 @@
 // document.write(x==6||y==5)
 // document.write("<br>")
 // document.write(!(x==y))
+
+// let p = document.querySelector("p");
+// let button = document.querySelector("button");
+// let input = document.querySelector("input");
+// button.addEventListener("click", function(){
+//         let text = input.value;
+//         console.log(text);
+//         p.innerHTML = text;
+// })
